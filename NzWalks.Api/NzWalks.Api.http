@@ -1,0 +1,6 @@
+@NzWalks.Api_HostAddress = http://localhost:5007
+
+GET {{NzWalks.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
